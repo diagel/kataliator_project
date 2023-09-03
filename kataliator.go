@@ -102,6 +102,7 @@ func fromRomansConv(num int) string {
 		90: "XC", 91: "XCI", 92: "XCII", 93: "XCIII", 94: "XCIV", 95: "XCV", 96: "XCVI", 97: "XCVII", 98: "XCVIII", 99: "IC",
 		100: "C",
 	}
+	// sorry :)
 	return romans[num]
 }
 
